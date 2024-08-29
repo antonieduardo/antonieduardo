@@ -1,2 +1,2 @@
-- 👋 Eu sou Antoni Eduardo Caetano dos Reis, no momento sou estudando do Instituto Federal de Brasília, estou a procura de um estágio ou um emprego.
+- 👋 Eu sou Antoni Eduardo Caetano dos Reis,sou formado no Instituto Federal de Brasília(IFB), emprego.
 - tenho interesse em ser um programador full stack
